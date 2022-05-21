@@ -1,6 +1,6 @@
 # Basic Restful Service
 
-Exercice 2 - https://spring.io/guides/gs/consuming-rest/
+Exercice 4 - https://spring.io/guides/gs/consuming-rest/
 
 ## Dependency
 
